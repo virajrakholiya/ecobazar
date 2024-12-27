@@ -1,0 +1,27 @@
+[
+  
+  {
+    "id": 1,
+    "name": "Chanise Cabbage",
+    "price": "$14.99",
+    "image": "/src/assets/image/Products/Image1.png"
+  },
+  {
+    "id": 2,
+    "name": "Green Lettuce",
+    "price": "$14.99",
+    "image": "/src/assets/image/Products/Image2.png"
+  },
+  {
+    "id": 3,
+    "name": "Green Chili",
+    "price": "$14.99",
+    "image": "/src/assets/image/Products/Image3.png"
+  },
+  {
+    "id": 4,
+    "name": "Corn",
+    "price": "$14.99",
+    "image": "/src/assets/image/Products/Image4.png"
+  }
+]
