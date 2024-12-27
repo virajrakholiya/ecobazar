@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Robet Max",
+    "image": "/src/assets/image/Client/Image1.png",
+    "msg": "Pellentesque eu nibh eget mauris congue mattis mattis nec tellus. Phasellus imperdiet elit eu magna dictum, bibendum cursus velit sodales. Donec sed neque eget"
+  },
+  {
+    "id": 2,
+    "name": "Kirtidan Gadhavi",
+    "image": "/src/assets/image/Client/Image2.png",
+    "msg": "Pellentesque eu nibh eget mauris congue mattis mattis nec tellus. Phasellus imperdiet elit eu magna dictum, bibendum cursus velit sodales. Donec sed neque eget"
+  },
+  {
+    "id": 3,
+    "name": "Mayabhai Ahir",
+    "image": "/src/assets/image/Client/Image3.png",
+    "msg": "Pellentesque eu nibh eget mauris congue mattis mattis nec tellus. Phasellus imperdiet elit eu magna dictum, bibendum cursus velit sodales. Donec sed neque eget"
+  }
+]
