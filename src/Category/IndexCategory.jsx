@@ -1,8 +1,13 @@
 import React from 'react'
-
+import Header from './Header'
+import MainSection from './MainSection'
 function IndexCategory() {
+    
   return (
-    <div>IndexCategory</div>
+    <div>
+        <Header />
+        <MainSection />
+    </div>
   )
 }
 
