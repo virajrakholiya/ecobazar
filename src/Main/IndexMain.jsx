@@ -1,6 +1,7 @@
 import React from "react";
 import Sidebar from "./Sidebar";
 import Features from "./Features";
+import Showcase from "./Showcase";
 
 function IndexMain() {
   return (
@@ -14,6 +15,7 @@ function IndexMain() {
         />
       </div>
       <Features />
+      <Showcase />
     </div>
   );
 }
