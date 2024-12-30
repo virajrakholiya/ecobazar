@@ -7,13 +7,13 @@
   },
   {
     "id": 2,
-    "name": "Kirtidan Gadhavi",
+    "name": "Chris Hemsworth",
     "image": "/src/assets/image/Client/Image2.png",
     "msg": "Pellentesque eu nibh eget mauris congue mattis mattis nec tellus. Phasellus imperdiet elit eu magna dictum, bibendum cursus velit sodales. Donec sed neque eget"
   },
   {
     "id": 3,
-    "name": "Mayabhai Ahir",
+    "name": "Robert Downey jr",
     "image": "/src/assets/image/Client/Image3.png",
     "msg": "Pellentesque eu nibh eget mauris congue mattis mattis nec tellus. Phasellus imperdiet elit eu magna dictum, bibendum cursus velit sodales. Donec sed neque eget"
   }

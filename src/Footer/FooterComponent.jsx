@@ -2,7 +2,7 @@ import React from "react";
 
 function FooterComponent() {
   return (
-    <div className="bg-slate-200 p-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 flex-row justify-between">
+    <div className="bg-slate-200 rounded-b-lg p-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 flex-row justify-between">
       <div className="flex flex-col gap-3">
         <div className="">
           {" "}

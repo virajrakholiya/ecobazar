@@ -41,8 +41,8 @@ const Product = () => {
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-5">
-      <div className="flex flex-row gap-4">
-        <div className="flex flex-wrap flex-col gap-2">
+      <div className="flex flex-col-reverse gap-4 md:flex-row ">
+        <div className="flex flex-wrap flex-row md:flex-col gap-2">
           {products.map((item) => (
             <img
               key={item.id}
@@ -55,7 +55,7 @@ const Product = () => {
         <img
           src="/src/assets/image/item Image/ProductMain.png"
           alt="Main Product"
-          className="mt-4 h-80"
+          className="mt-4 h-80 object-contain"
         />
       </div>
 
@@ -80,7 +80,7 @@ const Product = () => {
           <p className="text-2xl font-bold text-green-500">$100</p>
           <p className="bg-red-100 rounded-2xl p-1 text-red-500">50% off</p>
         </div>
-        <div className="flex flex-row justify-between gap-2">
+        <div className="flex flex-col justify-between gap-2 md:flex-row md:justify-between">
           <p className="flex flex-row items-center gap-1">
             Brand:{" "}
             <img src="/src/assets/image/Group 19.png" height={20} alt="" />
@@ -103,8 +103,8 @@ const Product = () => {
             ultrices et ipsum. Nulla varius magna a consequat pulvinar.
           </p>
         </div>
-        <div className="flex flex-row gap-2 w-full justify-between border-b-2 pb-2">
-          <div className="flex gap-2 border-2 rounded-3xl p-1">
+        <div className="flex flex-row gap-2 w-full justify-between border-b-2 pb-2 ">
+          <div className="flex gap-2 border-2 rounded-3xl p-1 ">
             <button className="p-2 bg-gray-200 rounded-full w-10 text-center">
               -
             </button>

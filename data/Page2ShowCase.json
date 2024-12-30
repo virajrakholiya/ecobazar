@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Green Apple",
+    "price": "$14.99",
+    "img":"/src/assets/image/page2/Image1.png"
+  },
+  {
+    "id": 2,
+    "title": "Chanise Cabbage",
+    "price": "$14.99",
+    "img":"/src/assets/image/page2/Image2.png"
+  },
+  {
+    "id": 3,
+    "title": "Green Capsicum",
+    "price": "$14.99",
+    "img":"/src/assets/image/page2/Image3.png"
+  },
+  {
+    "id": 1,
+    "title": "Ladies Finger",
+    "price": "$14.99",
+    "img":"/src/assets/image/page2/Image4.png"
+  }
+]

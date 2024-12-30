@@ -26,7 +26,7 @@ function NewsLetter() {
     },
   ];
   return (
-    <div className="bg-black text-white p-10 mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 items-center justify-between flex-row">
+    <div className="bg-black rounded-t-lg text-white p-10 mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 items-center justify-between flex-row">
       <div className="flex flex-row items-center gap-2">
         {" "}
         <HiOutlineMailOpen size={40} className="text-green-500" />

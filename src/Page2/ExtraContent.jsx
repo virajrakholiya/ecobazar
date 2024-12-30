@@ -6,7 +6,7 @@ import { SiOrganicmaps } from "react-icons/si";
 function ExtraContent() {
   return (
     <div className="mt-10  gap-5">
-      <div className="flex  justify-center gap-5 border-b-2 ">
+      <div className="flex  justify-center gap-5 border-b-2 text-center">
         <p className="text-black font-bold border-b-2 border-green-500">
           Descriptions
         </p>

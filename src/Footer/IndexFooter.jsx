@@ -3,7 +3,7 @@ import NewsLetter from './NewsLetter'
 import FooterComponent from './FooterComponent'
 function IndexFooter() {
   return (
-    <div>
+    <div >
         <NewsLetter />
         <FooterComponent />
     </div>
